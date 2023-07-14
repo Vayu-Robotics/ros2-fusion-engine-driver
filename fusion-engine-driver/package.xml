@@ -25,7 +25,7 @@
   <exec_depend>gps_msgs</exec_depend>
   <exec_depend>geometry_msgs</exec_depend>
   <exec_depend>visualization_msgs</exec_depend>
-  <exec_depend>mavros_msgs</exec_depend>
+  <!-- <exec_depend>mavros_msgs</exec_depend> -->
   <exec_depend>nmea_msgs</exec_depend>
 
   <test_depend>ament_lint_auto</test_depend>
